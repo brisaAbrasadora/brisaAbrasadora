@@ -54,7 +54,12 @@ I'm a 24 y/o junior web app developer from Spain!
 
 ## My skills
 
-<div align="center">
+<details>
+  <summary>
+    Expand to check
+  </summary>
+
+  <div align="center">
   
   #### I know the most about
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -80,6 +85,7 @@ I'm a 24 y/o junior web app developer from Spain!
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </div>
+</details>
 
  
 <!--
